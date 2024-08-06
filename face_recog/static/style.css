@@ -1,0 +1,23 @@
+#snap{
+    transition-duration: 0.4s;
+  }
+#addstudent{
+    margin-left: 1000px;
+}
+  
+  .button:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
+  
+ h2{
+    margin-left: 250px;
+ }
+ #result{
+   text-align: center;
+   font-size: medium;
+   font-style: italic;
+ }
+
+ 
+ 
